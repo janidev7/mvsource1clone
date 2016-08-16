@@ -1,0 +1,4 @@
+mvsource1:testdir1/file1.txt
+v3
+story2 changes
+story1 changes
