@@ -1,1 +1,2 @@
 Configuration of story4
+Second line
